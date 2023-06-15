@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EncuestasCMD
+namespace EncuestasLib
 {
     public class ProcesoEncuestas
     {
