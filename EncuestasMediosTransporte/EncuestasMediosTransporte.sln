@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.33529.622
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncuestasCMD", "EncuestasCMD\EncuestasCMD.csproj", "{C34AC50C-A46F-4559-8A80-9A693796875E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncuestasLib", "EncuestasLib\EncuestasLib.csproj", "{776CBFD6-A2F3-4216-A6B4-20F3F24107BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C34AC50C-A46F-4559-8A80-9A693796875E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C34AC50C-A46F-4559-8A80-9A693796875E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C34AC50C-A46F-4559-8A80-9A693796875E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{776CBFD6-A2F3-4216-A6B4-20F3F24107BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776CBFD6-A2F3-4216-A6B4-20F3F24107BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776CBFD6-A2F3-4216-A6B4-20F3F24107BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776CBFD6-A2F3-4216-A6B4-20F3F24107BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EncuestasCMD
 {
-    class ProcesoEncuestas
+    public class ProcesoEncuestas
     {
         Encuesta[] contactables;
         public int CantContactables { get; private set; }
